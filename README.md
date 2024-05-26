@@ -1,0 +1,14 @@
+Este repositorio contiene los siguientes DAGs de ejemplo para el curso "Cloud para desarrolladores":
+- python_signup.py
+- one_success.py
+- fileSensor.py
+- none_failed.py
+- one_failed.py
+- all_failed.py
+- all_success.py
+- always.py
+- base.py
+- bash_operator.py
+- branching.py
+- depends_on_past.py
+- all_done.py
